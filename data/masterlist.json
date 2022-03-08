@@ -1,0 +1,24 @@
+[
+        {"memberList": {"1": {
+                "totalSpent": 5.264000000000001,
+                "orderNumber": 0,
+                "orderSize": 0,
+                "memberName": "Alvin",
+                "rewardPoints": 20,
+                "memberID": 1
+        }}},
+        {"orderList": {"1": {
+                "orderNumber": 1,
+                "totalSpent": 0,
+                "orderSize": 4,
+                "subTotal": 4.7,
+                "list": [
+                        "vanilla",
+                        "strawberry",
+                        "coconut",
+                        "darkChocolateChips"
+                ],
+                "rewardPoints": 0,
+                "memberID": 1
+        }}}
+]

@@ -1,0 +1,44 @@
+[
+  "#7f808a", 
+  "#d6d3e4", 
+  "#c9dbee", 
+  "#9ccce0", 
+  "#7ac2d6", 
+  "#93c7d7"
+]
+
+[
+60667f
+a0b1dd
+c4b1d0
+d79da8
+e08f8e
+da9fa7
+]
+
+[
+466d68
+77cabe
+b2e0c3
+dfd8aa
+f5cf9c
+e0c6b0
+]
+
+[
+81707b
+dabed1
+d5dbee
+a1e4f4
+7de5f4
+a9d6e1
+]
+
+[
+60667f
+a0b1dd
+c4b1d0
+d79da8
+e08f8e
+da9fa7
+]

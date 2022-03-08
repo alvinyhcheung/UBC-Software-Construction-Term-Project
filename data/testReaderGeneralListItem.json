@@ -1,0 +1,46 @@
+[
+        {"memberList": {
+                "1": {
+                        "totalSpent": 14.5,
+                        "orderNumber": 0,
+                        "orderSize": 0,
+                        "memberName": "TestName1",
+                        "rewardPoints": 10,
+                        "memberID": 1
+                },
+                "2": {
+                        "totalSpent": 19.5,
+                        "orderNumber": 0,
+                        "orderSize": 0,
+                        "memberName": "TestName2",
+                        "rewardPoints": 30,
+                        "memberID": 2
+                }
+        }},
+        {"orderList": {
+                "1": {
+                        "orderNumber": 1,
+                        "totalSpent": 0,
+                        "orderSize": 2,
+                        "subTotal": 4,
+                        "list": [
+                                "chocolate",
+                                "vanilla"
+                        ],
+                        "rewardPoints": 0,
+                        "memberID": 1
+                },
+                "2": {
+                        "orderNumber": 2,
+                        "totalSpent": 0,
+                        "orderSize": 2,
+                        "subTotal": 3.4,
+                        "list": [
+                                "butterscotch",
+                                "wildBerry"
+                        ],
+                        "rewardPoints": 0,
+                        "memberID": 2
+                }
+        }}
+]
